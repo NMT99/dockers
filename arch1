@@ -1,0 +1,3 @@
+pacman -S bash-completion --noconfirm ;
+pacman -S --needed base-devel --noconfirm ;
+pacman -S sudo nano ;
